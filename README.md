@@ -25,8 +25,9 @@ To run on localhost:8080
 
 # Working with docker
 
-See guide [here](https://spring.io/guides/gs/spring-boot-docker/)
+See guide [here](https://spring.io/guides/gs/spring-boot-docker/)0
 
+Guide for learning docker [here](http://training.play-with-docker.com/helloworld/)
 ## Prerequisites and install
 
 https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#install-docker

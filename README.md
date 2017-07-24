@@ -1,8 +1,7 @@
 This is my hello world to try out using java in web development, docker and kubernetes
 
-Goals for this Hello World
+## Goals for this Hello World
 
-##  TODO
 1. ~~Create a Hello World app with Spring~~
 2. ~~Get it running in a docker environment~~
 3. Get it running in Kubernetes
@@ -18,7 +17,7 @@ Ubuntu -
 - make sure java is installed
 - install maven if needed  `sudo apt-get install mvn`
 
-Further instruction can be take from [here](https://spring.io/guides/gs/spring-boot/)
+Further instruction can be found [here](https://spring.io/guides/gs/spring-boot/)
 
 
 To run on localhost:8080
